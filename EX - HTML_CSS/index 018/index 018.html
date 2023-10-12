@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PseudoClasses</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: gray;
+            text-align: center;
+            font-size: 2em;
+        }
+
+        a{
+            color: white;
+            }
+        div{
+            color: black;
+        }
+
+        div > a {
+            display: none;
+        }
+        div:hover {
+            color: rgb(255, 255, 255);
+        }
+
+        div:hover > a {
+           display: block; 
+        }
+    </style>
+</head>
+<body>
+    <div id="div1">Peças
+       <a href="https://www.placasdevideo.app.br/">Placas de Vídeo</a>
+       <a href="https://www.kabum.com.br/hardware/placas-mae">Placas Mãe</a>
+    </div>
+</body>
+</html>
