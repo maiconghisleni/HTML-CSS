@@ -3,8 +3,7 @@
  <br>
 DESAFIOS:
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES1/index.
-html">DESAFIO 1</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES1/index.html">DESAFIO 1</a>
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES2/index.html">DESAFIO 2</a>
 <br>
