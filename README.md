@@ -14,15 +14,15 @@ DESAFIOS:
 <br>
 EXERCICIOS:
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index001/index.html">EXERCICIO 1</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index001/index.html">EXERCICIO 01</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index002/index.html">EXERCICIO 2</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index002/index.html">EXERCICIO 02</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index003/index.html">EXERCICIO 3</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index003/index.html">EXERCICIO 03</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index004/index.html">EXERCICIO 4</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index004/index.html">EXERCICIO 04</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index005/index.html">EXERCICIO 5</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index005/index.html">EXERCICIO 05</a>
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index006/index.html">EXERCICIO 06</a>
 <br>
@@ -43,4 +43,14 @@ EXERCICIOS:
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0014/index.html">EXERCICIO 14</a>
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0015/index.html">EXERCICIO 15</a>
+<br>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index016/index.html">EXERCICIO 16</a>
+<br>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index017/index.html">EXERCICIO 17</a>
+<br>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index018/index.html">EXERCICIO 18</a>
+<br>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index019/pseudo-elements.html">EXERCICIO 19</a>
+<br>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index020/caixas01.html">EXERCICIO 20</a>
 <br>
