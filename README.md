@@ -32,17 +32,17 @@ EXERCICIOS:
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index009/index.html">EXERCICIO 09</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0010/index.html">EXERCICIO 10</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index010/index.html">EXERCICIO 10</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0011/index.html">EXERCICIO 11</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index011/index.html">EXERCICIO 11</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0012/index.html">EXERCICIO 12</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index012/index.html">EXERCICIO 12</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0013/index.html">EXERCICIO 13</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index013/index.html">EXERCICIO 13</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0014/index.html">EXERCICIO 14</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index014/index.html">EXERCICIO 14</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index0015/index.html">EXERCICIO 15</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index015/index.html">EXERCICIO 15</a>
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index016/index.html">EXERCICIO 16</a>
 <br>
