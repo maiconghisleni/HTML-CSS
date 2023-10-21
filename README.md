@@ -42,8 +42,6 @@ EXERCICIOS:
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index014/index.html">EXERCICIO 14</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index015/index.html">EXERCICIO 15</a>
-<br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index016/index.html">EXERCICIO 16</a>
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index017/index.html">EXERCICIO 17</a>
