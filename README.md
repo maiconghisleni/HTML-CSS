@@ -48,7 +48,7 @@ EXERCICIOS:
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index018/index.html">EXERCICIO 18</a>
 <br>
-<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index019/pseudo-elements.html">EXERCICIO 19</a>
+<a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index019/pseudo-element.html">EXERCICIO 19</a>
 <br>
 <a href="https://maiconghisleni.github.io/HTML-CSS/EXERCICIOS/index020/caixas01.html">EXERCICIO 20</a>
 <br>
