@@ -3,10 +3,12 @@
  <br>
 DESAFIOS:
 <br>
-https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES1/index.html
+<a href="https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES1/index.
+html">DESAFIO 1</a>
 <br>
-https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES2/index.html
+<a href="https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES2/index.html">DESAFIO 2</a>
 <br>
-https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES3/index.html
+<a href="https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES1/index.html">DESAFIO 3</a>
 <br>
-https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES4/Android.html
+<a href="https://maiconghisleni.github.io/HTML-CSS/DESAFIOS/DES4/Android.html">DESAFIO 4</a>
+<br>
